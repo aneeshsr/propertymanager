@@ -1,4 +1,6 @@
-# propertymanager
+# Property Manager
+
+## Project Abstract:
 Property manager is the operation, control, and oversight of real estate that need to be cared for, monitored and accountability given for its useful life and condition.
 
 The property manager application will have functionalities like addressing tenants issues, concerns and maintaining the property. This includes preventive maintenance, repair or corrective maintenance, routine cleaning and maintenance and construction.
