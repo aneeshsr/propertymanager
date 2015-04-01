@@ -5,3 +5,11 @@ The property manager application will have functionalities like addressing tenan
 
 Property manager application will function using the best indusry practices to achieve high efficiency.
 
+Project Participants 
+Aneesh Sreekumar 
+asreekumar@luc.edu
+
+
+Bhapinder Pal Singh 
+
+
