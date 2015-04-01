@@ -1,15 +1,13 @@
 # Property Manager
 
-## Project Abstract:
-Property manager is the operation, control, and oversight of real estate that need to be cared for, monitored and accountability given for its useful life and condition.
+## Goal:
+Property manager is an open source web application for the management, control, and oversight of apartments or similar real estate property that would require interaction between multiple user roles in order to function effectively. It's users would be apartment management, tenants and maintenance personnel. 
+The application will have functionalities like addressing tenants maintenance issues, tracking them to completion. This includes preventive maintenance, repair or corrective maintenance, routine cleaning and maintenance and construction.
 
-The property manager application will have functionalities like addressing tenants issues, concerns and maintaining the property. This includes preventive maintenance, repair or corrective maintenance, routine cleaning and maintenance and construction.
 
-Property manager application will function using the best indusry practices to achieve high efficiency.
 
-Project Participants
-
-Aneesh
+## Project Participants
+Aneesh  
 Bhapinder  
 
 
