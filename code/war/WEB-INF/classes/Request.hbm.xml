@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Sep 1, 2012 3:56:02 PM by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="org.propertymanager.code.entity.Request" table="REQUEST">
+        <id name="requestId" type="java.lang.Long">
+            <column name="REQUEST_ID" />
+            <generator class="increment" />
+        </id>
+        <property name="propertyId" type="java.lang.Long">
+            <column name="PROPERTY_ID" />
+        </property>
+        <property name="requestType" type="java.lang.String">
+            <column name="REQUESTTYPE" />
+        </property>
+        <property name="date" type="java.util.Date">
+            <column name="DATE" />
+        </property>
+        <property name="description" type="java.lang.String">
+            <column name="DESCRIPTION" />
+        </property>
+    </class>
+</hibernate-mapping>

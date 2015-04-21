@@ -1,0 +1,2 @@
+serviceClass: org.propertymanager.code.client.PropertyManagerService
+path: 497D8B447DF5B4FECEEE2B16106541DD.gwt.rpc

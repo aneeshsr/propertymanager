@@ -1,0 +1,2 @@
+# Module org.propertymanager.code.PropertyManager
+# RPC service class, partial path of RPC policy file
