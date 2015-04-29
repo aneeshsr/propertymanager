@@ -18,6 +18,6 @@ All documentation including how to get started with the project, developer docum
 
 ## License
 GNU GENERAL PUBLIC LICENSE Version 3
-[Full version] (https://github.com/aneeshsr/propertymanager/license.md)
+[Full version] (https://github.com/aneeshsr/propertymanager/blob/master/license.md)
 
 
