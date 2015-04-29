@@ -9,11 +9,11 @@ The application will have functionalities like addressing tenants maintenance is
 ## Project Participants
 Aneesh  
 Bhapinder  
-[Developer Forum] (https://groups.google.com/forum/#!forum/openpropertymanager)
+Subscribe to: [Developer Forum] (https://groups.google.com/forum/#!forum/openpropertymanager)
 
 ## Documentation
 
-All documentation including how to get started with the project, developer documentation, user documentation, issue tracking are provided in the GitHub Wiki itself
-(Wiki) [https://github.com/aneeshsr/propertymanager/wiki]
+All documentation including how to get started with the project, developer documentation, user documentation, issue tracking are provided in the GitHub Wiki itself:
+[Wiki] (https://github.com/aneeshsr/propertymanager/wiki)
 
 
