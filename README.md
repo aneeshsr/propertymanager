@@ -16,4 +16,8 @@ Subscribe to: [Developer Forum] (https://groups.google.com/forum/#!forum/openpro
 All documentation including how to get started with the project, developer documentation, user documentation, issue tracking are provided in the GitHub Wiki itself:
 [Wiki] (https://github.com/aneeshsr/propertymanager/wiki)
 
+## License
+GNU GENERAL PUBLIC LICENSE Version 3
+[Full version] (https://github.com/aneeshsr/propertymanager/license.md)
+
 
